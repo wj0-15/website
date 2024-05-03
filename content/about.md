@@ -35,10 +35,8 @@ editPost:
 ---
 I am a (currently) Berlin based human being which wants to explore the world. Contact me if you want more information.
 ## Say Hi! &#128075;
-[{{< fa fab signal-messenger 2x >}} Signal](https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V)
+[Signal](https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V)
 
-[{{< fa fab telegram 2x >}} Telegram](https://t.me/wj0_15_7h15)
+[Telegram](https://t.me/wj0_15_7h15)
 
-[{{< fa fas envelope 2x >}} E-Mail](mailto:joh@benjoh.de)
-
-{{< fa fas envelope 2x >}}
+[E-Mail](mailto:joh@benjoh.de)
