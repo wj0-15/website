@@ -39,4 +39,4 @@ I am a (currently) Berlin based human being which wants to explore the world. Co
 
 [Telegram](https://t.me/wj0_15_7h15)
 
-[E-Mail](mailto:joh@benjoh.de)
+[E-Mail](mailto:joh@jweise.de)
