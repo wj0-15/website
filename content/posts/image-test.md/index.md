@@ -34,17 +34,18 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 ## Images on my Website
-A thing which scares me for the longest time. I mean, from a technical perspective of course. Which file-format, aspect ratio, compression rate, file-size, etc..
+A thing which scared me for the longest time. I mean, from a technical perspective of course. Which file-format, aspect ratio, compression rate, file-size, etc..
 
-There are so many things that pop up and need to be considered when on the internet. Normally those kind of decisions are taken automatically taken by the platform you upload the image to. They also get optimized and rendered in different sizes already to load always the best version on the client device. This is responsive... and more efficient... and so on.
+There are so many things that pop up and need to be considered when on the internet. Normally those kind of decisions are taken automatically by the platform you upload the image to. They also get optimized and rendered in different sizes already to load always the best version on the client device. This is responsive... and more efficient... and so on.
 
-But now needing to implement those decisions into my solution with hugo was a breakpoint for me for so long. What if my images are to big and take ages to load. I don't want to have a slow website when I show it of to somebody. At least the thumbnail needs to load quickly. Speeking of which, this needs to be generated for each and every image I put up here (hopefully automatically with the right settings).
+But now needing to implement those decisions into my solution with Hugo was a breakpoint for me for so long. What, if my images are to big and take ages to load. I don't want to have a slow website when I show it of to somebody. At least the thumbnail needs to load quickly. Speeking of which. This needs to be generated for each and every image I put up here (hopefully automatically with the right settings).
 
 Now comes the time to atleast put the first real image up in general.
 
 Just to see how it looks like in general. The workflow, the processing, the actuall loading times...
 ## The Image
 ![](bubbles.jpg)
+This image btw is a render I did some years ago in [Blender](https://blender.org) when I was testing a new function that I didn't know before. But I actually cannot remember what it was, and how to recreate this image because I didn't used it for more then this test.
 
 ## Summary
 I am making progress so far.
