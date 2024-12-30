@@ -1,6 +1,6 @@
 baseURL: "https://jweise.de/"
 title: Johannes Weise
-paginate: 5
+pagination.pagerSize: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -82,6 +82,10 @@ params:
       url: "https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V"
     - name: Telegram
       url: "https://t.me/wj0_15_7h15"
+    - name: mastodon
+      url: "https://chaos.social/@wj0"
+    - name: bluesky
+      url: "https://bsky.app/profile/wj015.bsky.social"
     - name: email
       url: "mailto:joh@jweise.de"
     - name: YouTube
