@@ -85,7 +85,7 @@ params:
     - name: mastodon
       url: "https://chaos.social/@wj0"
     - name: bluesky
-      url: "https://bsky.app/profile/jweise.de"
+      url: "https://bsky.app/profile/wj0.xyz"
     - name: email
       url: "mailto:joh@jweise.de"
     - name: YouTube
