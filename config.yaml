@@ -86,6 +86,8 @@ params:
       url: "https://chaos.social/@wj0"
     - name: bluesky
       url: "https://bsky.app/profile/wj0.xyz"
+    - name: pixelfed
+      url: "https://pixelfed.social/wj0.15/"
     - name: email
       url: "mailto:joh@jweise.de"
     - name: YouTube
