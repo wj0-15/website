@@ -81,7 +81,7 @@ params:
     - name: Signal
       url: "https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V"
     - name: Telegram
-      url: "https://t.me/wj0_15_7h15"
+      url: "https://t.me/wj0_15"
     - name: Matrix
       url: "https://matrix.to/#/@wj0-38c3:matrix.org"
     - name: email
