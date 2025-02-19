@@ -37,6 +37,8 @@ I am a (currently) Berlin based human being which wants to explore the world. Co
 ## Say Hi! &#128075;
 [Signal](https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V)
 
+[Threema](https://threema.id/ZBRPZWJ2)
+
 [Telegram](https://t.me/wj0_15_7h15)
 
 [E-Mail](mailto:joh@jweise.de)
