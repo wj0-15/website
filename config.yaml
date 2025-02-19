@@ -80,6 +80,8 @@ params:
   socialIcons:
     - name: Signal
       url: "https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V"
+    - name: Threema
+      url: "https://threema.id/ZBRPZWJ2"
     - name: Telegram
       url: "https://t.me/wj0_15"
     - name: Matrix
