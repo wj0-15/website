@@ -61,11 +61,6 @@ params:
       - name: Blog
         url: posts
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my website
-
   socialIcons:
     - name: Signal
       url: "https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V"
@@ -120,11 +115,6 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 outputs:
   home:
     - HTML
