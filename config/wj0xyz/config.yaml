@@ -1,0 +1,11 @@
+baseURL: "https://wj0.xyz/"
+title: wj0
+params:
+  title: wj0 (Joh)
+  description: "media designer & tech enthusiast"
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: wj0 (Joh)
+    subtitle: "media designer & tech enthusiast"
+    imageUrl: "images/wj0.jpg"
+    imageTitle: wj0
