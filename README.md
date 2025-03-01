@@ -1,4 +1,4 @@
-# Website - jweise.de
+# Website - wj0.xyz
 This is my first try of maintaining a website with the [Hugo Static Site Generator](https://gohugo.io/) in combination with [Cloudflare Pages](https://pages.cloudflare.com/).
 It's **not** meant to be permanent and can also be abandoned anytime.
 
