@@ -1,0 +1,11 @@
+baseURL: "https://jweise.de/"
+title: Johannes Weise
+params:
+  title: Johannes Weise
+  description: "media designer & tech enthusiast"
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Johannes Weise
+    subtitle: "media designer & tech enthusiast"
+    imageUrl: "images/jweise.jpg"
+    imageTitle: Johannes Weise

@@ -1,5 +1,3 @@
-baseURL: "https://jweise.de/"
-title: Johannes Weise
 pagination.pagerSize: 5
 theme: [PaperMod]
 
@@ -16,8 +14,6 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Johannes Weise
-  description: "media designer & tech enthusiast"
   keywords: [Blog, Portfolio, PaperMod]
   author: Joh
   DateFormat: "January 2, 2006"
@@ -57,22 +53,13 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Johannes Weise
-    subtitle: "media designer & tech enthusiast"
-    imageUrl: "images/jweise.jpg"
     imageWidth: 240 # Original is 120
     imageHeight: 240
-    imageTitle: Johannes Weise
     buttons:
       - name: About Me
         url: about
       - name: Blog
         url: posts
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my website
 
   socialIcons:
     - name: Signal
@@ -128,11 +115,6 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 outputs:
   home:
     - HTML
