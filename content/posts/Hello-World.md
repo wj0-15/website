@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/johannesweise/website/tree/main/content/"
+    URL: "https://github.com/wj0-15/website/tree/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
