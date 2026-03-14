@@ -13,7 +13,6 @@ comments: false
 description: "... are a better way to create smaller blogs and websites and I wanna show you how!"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

@@ -13,7 +13,6 @@ comments: false
 description: "This Post is to test out some Image Stuff (like header Images)"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
