@@ -93,6 +93,12 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+outputFormats:
+  llms:
+    mediaType: "text/plain"
+    baseName: "llms"
+    isPlainText: true
+    notAlternative: true
 outputs:
   home:
     - HTML

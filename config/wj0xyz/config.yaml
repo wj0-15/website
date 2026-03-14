@@ -24,9 +24,11 @@ params:
       url: "https://chaos.social/@wj0"
     - name: pixelfed
       url: "https://pixelfed.social/wj0/"
-    - name: bluesky
-      url: "https://bsky.app/profile/wj0.xyz"
+    - name: loops
+      url: "https://loops.video/@wj0"
     - name: YouTube
       url: "https://youtube.com/@wj0h"
     - name: github
       url: "https://github.com/wj0-15/"
+    - name: codeberg
+      url: "https://codeberg.org/wj0/"    
