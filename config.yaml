@@ -18,12 +18,6 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: wj0 (Joh)
   description: "media designer & tech enthusiast"
-  profileMode:
-    enabled: true
-    title: wj0 (Joh)
-    subtitle: "media designer & tech enthusiast"
-    imageUrl: "images/wj0.jpg"
-    imageTitle: wj0
   keywords: [Blog, Portfolio, PaperMod]
   author: Joh
   DateFormat: "January 2, 2006"
@@ -86,6 +80,10 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
+    title: wj0 (Joh)
+    subtitle: "media designer & tech enthusiast"
+    imageUrl: "images/wj0.jpg"
+    imageTitle: wj0
     imageWidth: 240 # Original is 120
     imageHeight: 240
     buttons:
