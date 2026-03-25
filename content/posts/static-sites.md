@@ -8,12 +8,7 @@ author: "Joh"
 showToc: true
 TocOpen: true
 draft: false
-hidemeta: false
-comments: false
 description: "... are a better way to create smaller blogs and websites and I wanna show you how!"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -58,13 +53,13 @@ Is a static site generator for you?
 
 I would say it depends! (Which I know many people will stop here because it's more complicated then a simple Yes/No)
 
-If you have a set of basic information which doesn't or not very often change (Like Contact Details, Addresses for Business, maybe even Menus) I would argue that thinking again of switching to a Static Site can be a benefit. If you're not sure on how, [contact me]({{< ref "/about/" >}}) for consulting or just ask "the IT Guy" to help you out in this one.
+If you have a set of basic information which doesn't or not very often change (Like Contact Details, Addresses for Business, maybe even Menus) I would argue that thinking again of switching to a Static Site can be a benefit. If you're not sure on how, [contact me]({{< ref "/" >}}) for consulting or just ask "the IT Guy" to help you out in this one.
 If setup right this website would be a OneTime Cost and doesn't need maintaining as much as your classic site.
 
 But if you have (or want to have) a website where you regularly post pictures or video content which is not embedded through external sites, then I would choose a different solution. I don't wanna say it's impossible here as well, but the effort that you need to put in compared to a ready-to-go solution is not worth it.
 
 Okay thats where I leave it for today.
-If you have questions, feel free to [reach out]({{< ref "/about/" >}}).
+If you have questions, feel free to [reach out]({{< ref "/" >}}).
 
 Thanks for your time! And have a great day!
 

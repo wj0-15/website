@@ -1,19 +1,12 @@
 ---
 title: '38c3 Was Amazing'
 date: '2025-01-04T23:44:42+01:00'
-# weight: 1
-# aliases: ["/first"]
 tags: ["38c3", "events", "chaos"]
 author: "Joh"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
-comments: false
 description: "... really! I was genuinely impressed!"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -27,10 +20,6 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/wj0-15/website/tree/main/content/posts"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 ## My first time!
 It was my first time at a chaos event ever, so keep this in mind while reading this. Some things are myths that I heard before, some things truely flashed my brain and I was just overstimulated with so many things happening at the same time.

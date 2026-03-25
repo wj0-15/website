@@ -1,36 +1,16 @@
 ---
 title: 'Image Test.md'
 date: '2024-05-12T00:39:26+02:00'
-# weight: 1
-# aliases: ["/first"]
 tags: [""]
 author: "Joh"
-showToc: false 
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
 description: "This Post is to test out some Image Stuff (like header Images)"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/wj0-15/website/tree/main/content/posts"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 ## Images on my Website
 A thing which scared me for the longest time. I mean, from a technical perspective of course. Which file-format, aspect ratio, compression rate, file-size, etc..
