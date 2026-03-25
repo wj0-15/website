@@ -57,8 +57,7 @@ params:
       url: "https://codeberg.org/wj0/"    
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: true
     favicon: "images/favicon.ico"
     favicon16x16: "images/favicon-16x16.png"
     favicon32x32: "images/favicon-32x32.png"
@@ -106,6 +105,12 @@ buildExpired: false
 pygmentsUseClasses: true
 markup:
   highlight:
+  # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    # noClasses: false
+    style: monokai
     noClasses: false
   goldmark:
     renderer:
