@@ -1,3 +1,5 @@
+baseURL: "https://wj0.xyz/"
+title: wj0
 pagination.pagerSize: 5
 theme: [PaperMod]
 
@@ -14,6 +16,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: wj0 (Joh)
+  description: "media designer & tech enthusiast"
+  profileMode:
+    enabled: true
+    title: wj0 (Joh)
+    subtitle: "media designer & tech enthusiast"
+    imageUrl: "images/wj0.jpg"
+    imageTitle: wj0
   keywords: [Blog, Portfolio, PaperMod]
   author: Joh
   DateFormat: "January 2, 2006"
@@ -36,7 +46,29 @@ params:
   tocopen: false
   editPost:
     disabled: true
-
+  socialIcons:
+    - name: Signal
+      url: "https://signal.me/#eu/CVNx3S-ehZz1vrq0OeFXNdqd7R5VYHMTELdTRp5aI3TeaBCkXkZJZIUxvvYVSy0V"
+    - name: Threema
+      url: "https://threema.id/ZBRPZWJ2"
+    - name: Telegram
+      url: "https://t.me/wj0_15"
+    - name: Matrix
+      url: "https://matrix.to/#/@wj0-38c3:matrix.org"
+    - name: email
+      url: "mailto:joh@wj0.xyz"
+    - name: mastodon
+      url: "https://chaos.social/@wj0"
+    - name: pixelfed
+      url: "https://pixelfed.social/wj0/"
+    - name: loops
+      url: "https://loops.video/@wj0"
+    - name: YouTube
+      url: "https://youtube.com/@wj0h"
+    - name: github
+      url: "https://github.com/wj0-15/"
+    - name: codeberg
+      url: "https://codeberg.org/wj0/"    
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
