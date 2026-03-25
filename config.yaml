@@ -3,38 +3,30 @@ title: wj0
 pagination.pagerSize: 5
 theme: [PaperMod]
 
-enableInlineShortcodes: true
-enableEmoji: true
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-minify:
-  disableXML: true
-  minifyOutput: true
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: wj0 (Joh)
   description: "media designer & tech enthusiast"
+  homeInfoParams:
+    Title: Hi there &#128075;
+    Content: "I am a Joh aka. wj0! Media designer & tech enthusiast!<br>*Currently* Berlin based human being who wants to explore the world.<br>Contact me for more information."
   keywords: [Blog, Portfolio, PaperMod]
   author: Joh
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: fakse
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -63,6 +55,7 @@ params:
       url: "https://github.com/wj0-15/"
     - name: codeberg
       url: "https://codeberg.org/wj0/"    
+
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -79,18 +72,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
-    title: wj0 (Joh)
-    subtitle: "media designer & tech enthusiast"
-    imageUrl: "images/wj0.jpg"
-    imageTitle: wj0
-    imageWidth: 240 # Original is 120
-    imageHeight: 240
-    buttons:
-      - name: About Me
-        url: about
-      - name: Blog
-        url: posts
+    enabled: false # needs to be explicitly set
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
@@ -107,28 +89,38 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Blog
-      name: Blog
-      url: /posts/
-      weight: 10
     - identifier: Archive
       name: Archive
       url: archives
-      weight: 20
+      weight: 10
     - identifier: Search
       name: Search
       url: search/
-      weight: 30
+      weight: 20
+enableInlineShortcodes: true
+enableEmoji: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
 outputFormats:
   llms:
     mediaType: "text/plain"
     baseName: "llms"
     isPlainText: true
     notAlternative: true
+minify:
+  disableXML: true
+  minifyOutput: true
 outputs:
   home:
     - HTML
