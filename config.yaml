@@ -12,6 +12,7 @@ params:
     Content: "I am a Joh aka. wj0! Media designer & tech enthusiast!<br>*Currently* Berlin based human being who wants to explore the world.<br>Contact me for more information."
   keywords: [Blog, Portfolio, PaperMod]
   author: Joh
+  copyright: "[Impressum & Datenschutz](/legal/)"
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -26,7 +27,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: fakse
+  hidemeta: false
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -87,15 +88,19 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 menu:
-  main:
-    - identifier: Archive
-      name: Archive
-      url: archives
-      weight: 10
-    - identifier: Search
-      name: Search
-      url: search/
-      weight: 20
+  main:
+    - identifier: Archive
+      name: Archive
+      url: archives
+      weight: 10
+    - identifier: Search
+      name: Search
+      url: search/
+      weight: 20
+    - identifier: legal
+      name: Impressum & Datenschutz
+      url: /legal/
+      weight: 30
 enableInlineShortcodes: true
 enableEmoji: true
 enableRobotsTXT: true
