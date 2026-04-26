@@ -13,7 +13,6 @@ comments: false
 description: "... really! I was genuinely impressed!"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
