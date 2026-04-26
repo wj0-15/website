@@ -1,6 +1,6 @@
 ---
 title: 'My weird relationship with social media'
-date: '2025-04-25T00:00:00+01:00'
+date: '2026-04-25T00:00:00+01:00'
 tags: ["social media", "journey", "personal"]
 author: "Joh"
 showToc: true
@@ -39,11 +39,11 @@ Often heard, often recommended and very often marked as very effective. I also t
 - Using the mobile browser version instead of reccomended app,
 - Disabling Accounts (or even deleting the account)
 
-Quick FAQ:
-### Are these methods perfect?
+###Quick FAQ:
+#### Are these methods perfect?
 Short Answer: No!
 
-### Will these Methods work for you?
+#### Will these Methods work for you?
 It depends! Its mostly based on your own willingness to change!
 
 ## Part 3: Questioning Platform Choices
