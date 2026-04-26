@@ -39,7 +39,7 @@ Often heard, often recommended and very often marked as very effective. I also t
 - Using the mobile browser version instead of reccomended app,
 - Disabling Accounts (or even deleting the account)
 
-###Quick FAQ:
+### Quick FAQ:
 #### Are these methods perfect?
 Short Answer: No!
 
